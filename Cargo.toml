@@ -1,5 +1,5 @@
 [package]
-name = "register_login"
+name = "user_creation"
 version = "0.1.0"
 edition = "2018"
 
